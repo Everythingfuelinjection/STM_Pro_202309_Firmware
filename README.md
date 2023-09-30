@@ -9,6 +9,7 @@ In Tunerstudio end tab "Hardware testing"
 STM32 Commands
 You will see a button 
 "Reboot to bootloader"
+
 ![image](TunerStudioSTM32Commands.png)
 
 Normally with the ecu connected Tuner studio should go grey and stay that way, if it reconnects it didn't work and you have to try again.
