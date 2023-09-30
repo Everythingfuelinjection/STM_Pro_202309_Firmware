@@ -1,5 +1,7 @@
 STM32F407 Programer for the STMPRO ECU.
-firmware.bin file is Firmware 202207.
+firmware.bin file is Speeduino-DEV 202306.
+My Version Compiled 202309, This Firmware has Haltech CANBUS broadcasts and is also compatible
+to the NEW CABBUS Wide Band Controller.
 
 Only available for windows OS currently.
 Zadig-2.5.exe needs to be installed first
