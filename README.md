@@ -13,12 +13,13 @@ You will see a button
 Normally with the ecu connected Tuner studio should go grey and stay that way, if it reconnects it didn't work and you have to try again.
 
 If this doesn't work for you, you can use the manual mode, Using a jumper as shown in the "Manual DFU mode" image.
-![image](Tuner studio STM32 Commands.png)
+
 windows should say something about a stm32 Bootloader. when this happens you need to run Zadig.
 View the image in the download to see the settings needed.
 Run Zadig
 goto options on the top and select list all devices.
 then from the dropdown menu select STM32Bootloader.
+![image](WindowsDFU.png)
 If you see "Black_f407VE in CDC" its not in DFU mode.
 there are to boxes with a arrow inbetween on the right hand side box scroll through untill you see
 "Winusb(v6.x.xxxx)"
