@@ -26,7 +26,7 @@ If you see "Black_f407VE in CDC" its not in DFU mode.
 there are to boxes with a arrow inbetween on the right hand side box scroll through untill you see
 "Winusb(v6.x.xxxx)"
 click reinstall driver
-It should new be ready to program.
+It should now be ready to program.
 run Uploadfirmware.bat and it should open up a dos screen 
 identify the cpu and start programing.
 once programed unplug ecu and reconnect to TS, Start a new TS Project.
