@@ -3,8 +3,8 @@ firmware.bin file is Firmware 202207.
 
 Only available for windows OS currently.
 Zadig-2.5.exe needs to be installed first
-\
-Plug the ecu into USB\
+
+Plug the ecu into USB
 In Tunerstudio end tab "Hardware testing"
 STM32 Commands
 You will see a button 
@@ -13,8 +13,7 @@ You will see a button
 Normally with the ecu connected Tuner studio should go grey and stay that way, if it reconnects it didn't work and you have to try again.
 
 If this doesn't work for you, you can use the manual mode, Using a jumper as shown in the "Manual DFU mode" image.
-
-
+![image](Tuner studio STM32 Commands.png)
 windows should say something about a stm32 Bootloader. when this happens you need to run Zadig.
 View the image in the download to see the settings needed.
 Run Zadig
